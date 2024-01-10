@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Sou Willerson, mas me chamam de Will, gosto de tecnologia, futebol, filmes, séries, política, finanças, Jogos de tabuleiro. Atuamente sou <strong>Desenvolvedor Front-end</strong> com conhecimento nas seguites tecnologias e temas que abordam o background da stack:<br><br>
-<strong>TypeScript · React.js · Tailwind CSS · WordPress · MySQL · Node.js · GitHub · SASS · Bootstrap · Responsive web design  Design Patterns.</strong>
+<strong>TypeScript · React.js · Tailwind CSS · WordPress · MySQL · Node.js · GitHub · SASS · Bootstrap · Responsive web design · Design Patterns.</strong>
 
   E venho estudando para aprender mais sobre Next.js. 
 </p>
