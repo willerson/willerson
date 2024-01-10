@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou Willerson, mas me chamam de Will, gosto de tecnologia, futebol, filme séries, política, finanças, atuamente sou <strong>Desenvolvedor Front-end</strong>.<br>
+  Sou Willerson, mas me chamam de Will, gosto de tecnologia, futebol, filmes, séries, política, finanças, Jogos de tabuleiro, Atuamente sou <strong>Desenvolvedor Front-end</strong>.<br><br>
 <strong>TypeScript · Next.js · React.js · Tailwind CSS · WordPress · MySQL · Node.js · Teamwork · GitHub · SASS ·Responsive web design · Bootstrap · Design Patterns</strong>
 </p>
 
